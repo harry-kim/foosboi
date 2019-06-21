@@ -1,0 +1,9 @@
+[Core]
+Name = foosbot
+Module = foosbot
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Foosball statistics and game organizer

@@ -1,0 +1,10 @@
+[Core]
+name = lightning
+module = lightning
+
+[Documentation]
+description = Example for lightning talk
+
+[Python]
+version = 3
+
